@@ -1,0 +1,3 @@
+[submodule "pcb/Keebio-Components"]
+	path = pcb/Keebio-Components
+	url = https://github.com/keebio/keebio-components.git
