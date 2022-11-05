@@ -1,3 +1,6 @@
 [submodule "pcb/Keebio-Components"]
 	path = pcb/Keebio-Components
 	url = https://github.com/keebio/keebio-components.git
+[submodule "pcb/KiCad-RP-Pico"]
+	url = https://github.com/ncarandini/KiCad-RP-Pico.git
+	path = pcb/KiCad-RP-Pico
