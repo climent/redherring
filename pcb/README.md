@@ -1,4 +1,4 @@
-# Red Herring PCB
+# Blue Herring PCB
 The files here were created with KiCad 6.
 
 ![KiCad-screenshot](https://user-images.githubusercontent.com/684408/201486221-04daa8d8-2362-42e3-9498-ff6c29730df4.png)
